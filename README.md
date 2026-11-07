@@ -18,9 +18,9 @@ Features:
 - Division
 - Division-by-zero error handling
 
-### 2. Word Guessing Game
+### 2. A Guessing Game
 
-A simple guessing game where the player tries to guess a predefined secret word within three attempts.
+A word guessing game that randomly selects a secret word from a list. Players have three attempts to guess the word, with hints revealed after the first and second incorrect guesses. The game also accepts guesses regardless of letter case.
 
 ### 3. Mad Libs
 
